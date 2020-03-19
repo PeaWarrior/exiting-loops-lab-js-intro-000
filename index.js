@@ -9,6 +9,7 @@ function breakOut(array, changeValue, stopValue) {
   }
   return array
 }
+<<<<<<< HEAD
 
 function keepGoing(array, changeValue, skipValue) {
   for (let i = 0; i < array.length; i++) {
@@ -30,3 +31,5 @@ function findBy(array, findFn) {
   }
   return null
 }
+=======
+>>>>>>> 526b23bc08675805011b67e7f3a5b2d4e08fb87e
